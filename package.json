@@ -23,7 +23,7 @@
   "contributes": {
     "languages": [{
       "id": "qml",
-      "extensions": [".qml",".qmlproject"],
+      "extensions": [".qml",".qmlproject",".qbs"],
       "configuration": "./qml.configuration.json"
     }],
     "grammars": [{
